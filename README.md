@@ -4,7 +4,7 @@
 <a href = "mailto:allerman3301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thayssa-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-- 🔭 I am currently working as a help desk intern
+- 🔭 I am currently working as a IT intern
 - 💻 Website: Working on it.
 - ⚡ Fun fact: I play lol and i hate it
 
