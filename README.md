@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/thayssa-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 - 💻 Website: Working on it.
-- ⚡ Fun fact: I play lol and i hate it
+- ⚡ Fun fact: my character choices in games are always dwarves
 
 <br><br>
 
